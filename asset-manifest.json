@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/https://vijaynandakumarkumar.github.io/to-do-deploy/static/css/main.f2aab8eb.chunk.css",
+    "main.js": "/https://vijaynandakumarkumar.github.io/to-do-deploy/static/js/main.b6651704.chunk.js",
+    "main.js.map": "/https://vijaynandakumarkumar.github.io/to-do-deploy/static/js/main.b6651704.chunk.js.map",
+    "runtime-main.js": "/https://vijaynandakumarkumar.github.io/to-do-deploy/static/js/runtime-main.cf3d1f0d.js",
+    "runtime-main.js.map": "/https://vijaynandakumarkumar.github.io/to-do-deploy/static/js/runtime-main.cf3d1f0d.js.map",
+    "static/js/2.ee8a294d.chunk.js": "/https://vijaynandakumarkumar.github.io/to-do-deploy/static/js/2.ee8a294d.chunk.js",
+    "static/js/2.ee8a294d.chunk.js.map": "/https://vijaynandakumarkumar.github.io/to-do-deploy/static/js/2.ee8a294d.chunk.js.map",
+    "index.html": "/https://vijaynandakumarkumar.github.io/to-do-deploy/index.html",
+    "precache-manifest.7424203e01b3dd0a1105ab71513a27a7.js": "/https://vijaynandakumarkumar.github.io/to-do-deploy/precache-manifest.7424203e01b3dd0a1105ab71513a27a7.js",
+    "service-worker.js": "/https://vijaynandakumarkumar.github.io/to-do-deploy/service-worker.js",
+    "static/css/main.f2aab8eb.chunk.css.map": "/https://vijaynandakumarkumar.github.io/to-do-deploy/static/css/main.f2aab8eb.chunk.css.map",
+    "static/js/2.ee8a294d.chunk.js.LICENSE.txt": "/https://vijaynandakumarkumar.github.io/to-do-deploy/static/js/2.ee8a294d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/https://vijaynandakumarkumar.github.io/to-do-deploy/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf3d1f0d.js",
+    "static/js/2.ee8a294d.chunk.js",
+    "static/css/main.f2aab8eb.chunk.css",
+    "static/js/main.b6651704.chunk.js"
+  ]
+}
